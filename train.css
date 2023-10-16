@@ -1,0 +1,350 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+video {
+    width: 100%;
+    filter: brightness(0.3);
+}
+.parentone {
+    margin-top: 10px;
+    margin-bottom: 15rem;
+}
+
+.logoarea {
+    color: white;
+    position: relative;
+    bottom: 68rem;
+    padding-left: 15rem;
+}
+.listarea {
+    display: inline;
+    padding: 20px;
+}
+.mylist {
+    list-style: none;
+    float: right;
+    position: absolute;
+    right: 215px;
+    top: 25px;
+}
+.first {
+    text-decoration: none;
+    color: white;
+}
+.textarea {
+    color: white;
+    position: relative;
+    bottom: 45rem;
+    text-align: center;
+}
+.textone {
+    font-size: 20px
+}
+.texttwo {
+    text-align: center;
+    font-size: 80px;
+}
+.buttontwo {
+    margin-top: 2%;
+    height: 35px;
+    width: 170px;
+    color: white;
+    background-color: orangered;
+    border: 1px solid orangered;
+    cursor: pointer;
+}
+.parentchoose { 
+    position: relative;
+    bottom: 25rem;
+}
+.yellow {
+    text-align: center;
+}
+.waves {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+                            /* section 2 */
+.topicall {
+    display: flex;
+    margin-top: 5%;
+    justify-content: space-around;
+    padding: 2rem 20rem;
+}
+.topicrowleft {
+    
+}
+.basicfitness {
+    display: flex;
+}
+.firstone {
+    /* margin-bottom: 15px; */
+}
+.topicrowright {
+    margin-left: 15%;
+}
+.basic {
+    margin-left: 30px;
+    margin-bottom: 30px;
+    /* color: blue; */
+}
+.getfit {
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+.discover {
+    color: orangered;
+    font-weight: 600;
+    text-decoration: none;
+}
+.thirdsection {
+    position: relative;
+    bottom: 20rem;
+    text-align: center;
+    background-image: url('../Asset/cta-bg.jpg');
+    height: 24rem;
+    color: white;
+}
+.dontthink {
+    padding-top: 7%;
+}
+.thetraining {
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.becomea {
+    height: 35px;
+    width: 170px;
+    color: white;
+    background-color: orangered;
+    border: 1px solid orangered;
+    cursor: pointer;
+}
+.sectionfour {
+    position: relative;
+    bottom: 15rem;
+}
+.ourclasses {
+    text-align: center;
+}
+.wavess{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.trainingclasses {
+    display: flex;
+    margin-top: 5%;
+}
+.sceduleslist {
+    margin-left: 10%;
+}
+.imagethird{
+    display: block;
+    margin-left: 20%;
+}
+.iconlist{
+    list-style: none;
+}
+.ullist {
+    text-decoration: none;
+}
+.iconeach {
+    height: 30px;
+    margin-top: 10px;
+    margin-right: 10rem;
+}
+.trainingmove {
+    font-weight: bold;
+    color: black;
+    position: relative;
+    right: 9rem;
+    bottom: 15px;
+}
+.trainingmoved {
+    font-weight: bold;
+    color: black;
+    position: relative;
+    right: 9rem;
+    bottom: 15px;
+}
+
+.trainingbutton {
+    padding: 2rem 2rem;
+    box-shadow: 0px 4px 8px 0px rgba(102, 90, 90, 0.2);
+}
+.trainingbtn {
+    height: 3rem; 
+    width: 27rem;
+    color: white;
+    background-color: orangered;
+    border: 1px solid orangered;
+    cursor: pointer;
+}
+.picdescription {
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.buttontrain {
+    margin-top: 15px;
+    height: 45px;
+    width: 150px;
+    background-color: orangered;
+    border: 1px solid orangered;
+}
+.buttontrainn {
+    text-decoration: none;
+    color: white;
+}
+.sectionfive {
+    padding-bottom: 15%;
+    background-image: url('../Asset/schedule-bg.jpg');
+    height: 45rem;
+}
+.classschedule{
+    text-align: center;
+    padding-top: 6%;
+    color: white;
+}
+.waaves {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.pdays {
+    margin-top: 50px;
+}
+.tablelayout {
+    margin-top: 30px;
+    margin-left: 6%;
+    padding: 30px;
+}
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 45px;
+    width: 15%;
+}
+th {
+    text-align: left;
+}
+.sectionsix {
+    margin-top: 5%;
+    text-align: center;
+}
+.lastwave {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.trainersjpgs {
+    display: flex;
+    padding-left: 50px;
+    justify-content: space-around;
+    padding-top: 5%;
+}
+.trainbtn {
+    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.5);
+    padding: 2rem 2rem;
+}
+.trainerjustify h4 {
+    text-align: left;
+}
+.trainerjustify p {
+    text-align: left;
+}
+.strenghth {
+    color: orangered;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.trainerp {
+    padding-top: 15px;
+}
+.icons{
+    float: left;
+    padding: 1rem 0;
+}
+#icon2{
+    margin-left: 1rem;
+}
+#icon3{
+    margin-left: 1rem;
+}
+#icon4{
+    margin-left: 1rem;
+}
+.mapandform {
+    margin-top: 5%;
+    margin-bottom: 0%;
+    display: flex;
+    justify-content: space-around;
+}
+.formimage {
+    height: 40rem;
+    width: 60rem;
+    opacity: 0.5;
+}
+.formback {
+    background-color: white;
+    position: relative;
+    bottom: 30rem;
+    left: 10rem;
+    height: 20rem;
+    width: 30rem;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.lastsec {
+    text-align: center;
+}
+@media screen and (max-width: 600px){
+    .topicall {
+        display: block;
+        margin-top: 5%;
+        /* justify-content: space-around; */
+        /* padding: 2rem 20rem; */
+    }
+    .topicrowright {
+        position: relative;
+        left: 0;
+    }
+    .topicrowleft {
+        position: relative;
+        left: 0; 
+    }
+    .trainersjpgs {
+        display: block;
+        padding-left: 50px;
+        /* justify-content: space-around; */
+        padding-top: 5%;
+    }
+    .trainingclasses {
+        display: block;
+        margin-top: 5%;
+    }
+    .imagethird{
+        width: 300px;
+        display: block;
+        margin-left: 20%;
+    }
+    .trainingbutton {
+        /* padding: 2rem 2rem; */
+        box-shadow: 0px 4px 8px 0px rgba(102, 90, 90, 0.2);
+        width: 100%;
+    }
+    .trainingmoved {
+        font-weight: bold;
+        color: black;
+         position: relative;
+        /*right: 3rem;*/
+        bottom: 30px; 
+        float: right;
+        margin-right: 0.2rem;
+        
+    }
+}
